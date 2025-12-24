@@ -1,7 +1,6 @@
 import { Box, Grid, Typography } from '@mui/material'
-import React from 'react'
 import useGetNewReleases from '../../../hooks/useGetNewReleases'
-import useClientCredentialToken from '../../../hooks/useClientCredentialToken';
+// import useClientCredentialToken from '../../../hooks/useClientCredentialToken';
 import LoadingSpinner from '../../../common/components/LoadingSpinner';
 import ErrorMessage from '../../../common/components/ErrorMessage';
 import Card from '../../../common/components/Card';

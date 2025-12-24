@@ -1,4 +1,3 @@
-import React from 'react'
 import { Box, Button, Typography, styled } from '@mui/material'
 import BookmarkIcon from '@mui/icons-material/Bookmark'
 import AddIcon from '@mui/icons-material/Add'

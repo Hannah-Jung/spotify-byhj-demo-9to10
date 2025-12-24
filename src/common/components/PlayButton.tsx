@@ -1,7 +1,6 @@
 import { PlayArrow } from '@mui/icons-material';
 import { IconButton } from '@mui/material'
 import type { IconButtonProps } from '@mui/material'
-import React from 'react'
 import styles from './Card.module.css'
 
 interface PlayButtonProps extends IconButtonProps {}

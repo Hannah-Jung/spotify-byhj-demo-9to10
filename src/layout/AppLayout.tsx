@@ -1,7 +1,6 @@
 import { Box, styled, Typography } from '@mui/material'
-import React from 'react'
 import { NavLink, Outlet } from 'react-router'
-import theme from '../theme'
+// import theme from '../theme'
 import HomeIcon from '@mui/icons-material/Home';
 import SearchIcon from '@mui/icons-material/Search';
 import LibraryHead from './components/LibraryHead';

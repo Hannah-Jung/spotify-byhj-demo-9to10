@@ -1,5 +1,4 @@
 import { Typography } from '@mui/material'
-import React from 'react'
 import styles from './Card.module.css'
 import PlayButton from './PlayButton';
 
